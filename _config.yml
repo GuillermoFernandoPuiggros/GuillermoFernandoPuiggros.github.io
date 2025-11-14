@@ -9,12 +9,12 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: GuillermoFernandoPuiggros
-blog_url: https://github.com/GuillermoFernandoPuiggros/Guillermo-Puiggros.github.io
+blog_url: https://guillermofernandopuiggros.github.io/
 email: gfpuiggros@gmail.com
 linkedin_username: www.linkedin.com/in/guillermo-puiggros
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: /assets/images/fotopersonal.jpg
 
 # Google Analytics ID
 #google_analytics: # UA-XXXXXXXXX-X (opcional, agregar después)
